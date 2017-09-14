@@ -6,4 +6,4 @@ Keys will be the new line of the text file and the value will be associated to n
 You can change the value from null to any value you desire by changing the echo command
 
 Usage:
-./jsonconverter.sh <textfile> <exportfile>
+./jsonconverter.sh textfile exportfile
